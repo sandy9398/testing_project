@@ -1,0 +1,4 @@
+package com.temp;
+
+public class Student {
+}
